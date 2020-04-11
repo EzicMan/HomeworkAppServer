@@ -1,0 +1,18 @@
+/add
+group:homework:type of homework:time:password
+/change
+group:homeid:newhomework:new type of homework:time:password
+/delete
+group:homeid:password
+/changepass
+group:newpass:oldpass
+/deletegroup
+group:password
+/addgroup
+group:password
+
+
+
+error messages
+wrong format
+incorrect password
